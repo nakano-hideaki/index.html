@@ -77,9 +77,9 @@ main{
   
 }
 
-step-box{
+.step-box{
   width: 90%;
-  margin-bottom:20px;
+  margin-bottom: 20px;
  }
 
 .step-box:last-child {
