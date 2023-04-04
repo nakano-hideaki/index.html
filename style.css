@@ -79,7 +79,7 @@ main{
 
 step-box{
   width: 90%;
-  
+  margin-bottom:20px;
  }
 
 .step-box:last-child {
